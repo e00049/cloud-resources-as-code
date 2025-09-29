@@ -8,5 +8,6 @@ test_installation.go
 
 # Ignore Node.js dependencies
 node_modules/
+azure_env/
 target/
 .terraform/
